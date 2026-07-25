@@ -35,6 +35,9 @@ CREATE TABLE ogrenciler(
 
 ## Proje Görünümü
 
+![Öğrenci Kayıt Sistemi](ogrenci-kayit-sistemi.png)
+
+
 Uygulama üzerinden öğrenci bilgileri eklenebilir, güncellenebilir, silinebilir ve aranabilir.
 
 ## Geliştirici
